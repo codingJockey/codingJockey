@@ -2,7 +2,7 @@
 <h3 align="center">**👩‍💻About Me**</h3>
 <p align="left">
 **•🔭I’m a BCA Graduate seeking Job Opportunities.**</br>
-•🌱I’m currently learning React😛.</br>
+•🌱**I’m currently learning React**😛.</br>
 •❓Ask me KuchBhi...</br>
 •⚡Fun fact: There isn't anything funny about me.</br>
 </p>
