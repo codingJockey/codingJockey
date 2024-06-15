@@ -14,5 +14,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 </div>
 ## Github Stats  
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
+GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
