@@ -1,6 +1,4 @@
-###
 <h1 align="center">👋Hi There, Pravin's Here!</h1>
-###
 <h3 align="center">👩‍💻  About Me</h3>
 <p align="left">
 •🔭I’m a BCA Graduate seeking Job Opportunities.</br>
@@ -8,11 +6,7 @@
 •❓Ask me KuchBhi...</br>
 •⚡Fun fact: There isn't anything funny about me.</br>
 </p>
-
-###
-
 <h3 align="center">🛠 Language & Tools</h3>
-
 <div align="center">
   <div align="center">
   <p align="center">
@@ -22,15 +16,7 @@
 </p>
 </div>
 </div>
-
-###
-
 <h3 align="left">🔥My Stats :</h3>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=helloPravin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
