@@ -1,12 +1,10 @@
 ###
 
-<h1 align="center">Hi There,👋</h1>
+<h1 align="center">👋Hi There, Pravin's Here!</h1>
 
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">
 •🔭I’m a BCA Graduate seeking Job Opportunities.</br>
@@ -31,7 +29,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥My Stats :</h3>
 
 ###
 
