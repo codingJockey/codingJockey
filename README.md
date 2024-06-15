@@ -13,7 +13,7 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 </div>
-## Github Stats  
-GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=helloPravin&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloPravin&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
