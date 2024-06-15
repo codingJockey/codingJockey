@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi There,👋</h1>
+<h1 align="center">👋Hi There, Pravin's Here!</h1>
 
 ###
 
@@ -9,19 +9,19 @@
 ###
 
 <p align="left">
-•🔭I’m a BCA Graduate seeking Job Opportunities.
-•🌱I’m currently learning React😛.
-•❓Ask me KuchBhi...
-•⚡Fun fact: There isn't anything funny about me.
+•🔭I’m a BCA Graduate seeking Job Opportunities.</br>
+•🌱I’m currently learning React😛.</br>
+•❓Ask me KuchBhi...</br>
+•⚡Fun fact: There isn't anything funny about me.</br>
 </p>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language & Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
