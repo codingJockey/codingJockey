@@ -20,7 +20,7 @@
 <div align="center">
   <div align="center">
   <p align="center">
-  <a href="https://hellopravin.vercel.app">
+  <a href="https://hellopravin.vercel.app/#skills/works">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb,php,vscode,git" />
   </a>
 </p>
